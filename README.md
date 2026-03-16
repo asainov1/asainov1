@@ -1,6 +1,6 @@
 # Hey, I'm Alikhan Sainov
 
-**AI/ML Engineer** building intelligent systems — from NLP pipelines and voice cloning to autonomous AI agents.
+**AI/ML Engineer** building intelligent systems - from NLP pipelines and voice cloning to autonomous AI agents.
 
 Based in Kazakhstan. Open to remote opportunities worldwide.
 
@@ -25,7 +25,7 @@ Based in Kazakhstan. Open to remote opportunities worldwide.
 - Production RAG gateway on Kubernetes with Prometheus/Grafana monitoring and Argo Rollouts
 
 **Full-Stack Platforms**
-- Multi-service SaaS platform (auth, billing, analytics) — Next.js + FastAPI microservices
+- Multi-service SaaS platform (auth, billing, analytics) - Next.js + FastAPI microservices
 
 ---
 
