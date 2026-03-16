@@ -50,7 +50,7 @@ Based in Kazakhstan. Open to remote opportunities worldwide.
 | [**dariush-ai-agent**](https://github.com/asainov1/dariush-ai-agent) | Autonomous AI agent in Docker sandbox with browser automation |
 | [**voice-ai-agent**](https://github.com/asainov1/voice-ai-agent) | Voice cloning for AI agents — F5-TTS zero-shot on GPU |
 | [**invoice-generator-agent**](https://github.com/asainov1/invoice-generator-agent) | OCR → NLP → PDF invoice pipeline via Telegram |
-| [**flowly-app**](https://github.com/asainov1/flowly-app) | Multi-service SaaS platform (6 microservices) |
+| [**saas-platform**](https://github.com/asainov1/saas-platform) | Multi-service SaaS platform (6 microservices) |
 | [**graph_based_rag_recsys**](https://github.com/asainov1/graph_based_rag_recsys) | Hybrid RAG with GraphRAG + ensemble reranking |
 | [**Rag-node-k8s**](https://github.com/asainov1/Rag-node-k8s) | Production RAG on K8s with canary deploys |
 
