@@ -48,7 +48,7 @@ Based in Kazakhstan. Open to remote opportunities worldwide.
 | Project | What it does |
 |---------|-------------|
 | [**dariush-ai-agent**](https://github.com/asainov1/dariush-ai-agent) | Autonomous AI agent in Docker sandbox with browser automation |
-| [**voice-ai-restaurant**](https://github.com/asainov1/voice-ai-restaurant) | Voice cloning pipeline — F5-TTS zero-shot on GPU |
+| [**voice-ai-agent**](https://github.com/asainov1/voice-ai-agent) | Voice cloning for AI agents — F5-TTS zero-shot on GPU |
 | [**invoice-generator-agent**](https://github.com/asainov1/invoice-generator-agent) | OCR → NLP → PDF invoice pipeline via Telegram |
 | [**flowly-app**](https://github.com/asainov1/flowly-app) | Multi-service SaaS platform (6 microservices) |
 | [**graph_based_rag_recsys**](https://github.com/asainov1/graph_based_rag_recsys) | Hybrid RAG with GraphRAG + ensemble reranking |
